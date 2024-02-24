@@ -1,1 +1,1 @@
-"four"
+print("four")
