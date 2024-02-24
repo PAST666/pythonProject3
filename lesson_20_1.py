@@ -4,3 +4,4 @@ def Hello_name(name):
 Hello_name('Вася')
 Hello_name("Петя")
 Hello_name("Саша")
+Hello_name("Андрей")
